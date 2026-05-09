@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Backend.API/Backend.API.csproj" />
+  <Project Path="DesktopApp.WPF/DesktopApp.WPF.csproj" />
+  <Project Path="SharedLibrary/SharedLibrary.csproj" />
+  <Project Path="TeacherApp.WinForms/TeacherApp.WinForms.csproj" Id="0445a328-367a-417d-94de-6b49de6316e4" />
+  <Project Path="WebApplication.Razor/WebApp.Razor.csproj" Id="1b6acef5-c7f3-472c-b7ba-34fc1f38b941" />
+</Solution>

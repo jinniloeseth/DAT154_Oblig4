@@ -1,0 +1,146 @@
+﻿@page "{id:int}"
+@model DetailsModel
+
+<h1>Case Details</h1>
+
+@if (Model.CaseScenario == null)
+{
+    <p>Fant ikke case.</p>
+}
+else
+{
+    <h2>@Model.CaseScenario.Title</h2>
+
+    @if (Model.IsTeacher)
+    {
+        <a asp-page="/CaseScenarios/Edit"
+               asp-route-id="@Model.CaseScenario.Id"
+               class="btn btn-primary mb-3">
+            Edit
+        </a>
+    }
+
+    <!-- 🧍 PASIENT -->
+    <h3>Pasient</h3>
+    <table class="table table-bordered">
+        <tr><th>ID</th><td>@Model.CaseScenario.Patient?.Id</td></tr>
+        <tr><th>Navn</th><td>@Model.CaseScenario.Patient?.FullName</td></tr>
+        <tr><th>Alder</th><td>@Model.CaseScenario.Patient?.Age</td></tr>
+        <tr><th>Kjønn</th><td>@Model.CaseScenario.Patient?.Gender</td></tr>
+        <tr><th>Vekt</th><td>@Model.CaseScenario.Patient?.Weight kg</td></tr>
+        <tr><th>Høyde</th><td>@Model.CaseScenario.Patient?.Height cm</td></tr>
+        <tr><th>Rom</th><td>@Model.CaseScenario.Patient?.Room</td></tr>
+        <tr><th>Innlagt</th><td>@Model.CaseScenario.Patient?.AdmissionDate</td></tr>
+        <tr><th>Diagnose ved innleggelse</th><td>@Model.CaseScenario.Patient?.AdmittingDiagnosis</td></tr>
+    </table>
+
+    <!-- 📜 HISTORIKK -->
+    <h3>Historikk</h3>
+    <table class="table table-bordered">
+        <tr><th>Type</th><th>Beskrivelse</th></tr>
+        <tr><td>Medisinsk</td><td>@Model.CaseScenario.Patient?.MedicalHistory</td></tr>
+        <tr><td>Kirurgisk</td><td>@Model.CaseScenario.Patient?.SurgicalHistory</td></tr>
+        <tr><td>Sosial</td><td>@Model.CaseScenario.Patient?.SocialHistory</td></tr>
+        <tr><td>Familie</td><td>@Model.CaseScenario.Patient?.FamilyHistory</td></tr>
+    </table>
+
+    <!-- 🤧 ALLERGIER -->
+    <h3>Allergier</h3>
+
+    @if (Model.CaseScenario.Patient?.Allergies != null && Model.CaseScenario.Patient.Allergies.Any())
+    {
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Navn</th>
+                    <th>Reaksjon</th>
+                    <th>Severity</th>
+                    <th>Beskrivelse</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var a in Model.CaseScenario.Patient.Allergies)
+                {
+                    <tr>
+                        <td>@a.Name</td>
+                        <td>@a.Reactions</td>
+                        <td>@a.Severity</td>
+                        <td>@a.Description</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>Ingen registrerte allergier.</p>
+    }
+
+    <!-- 🩺 DIAGNOSER -->
+    <h3>Diagnoser</h3>
+
+    @if (Model.CaseScenario.Patient?.Diagnoses != null && Model.CaseScenario.Patient.Diagnoses.Any())
+    {
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Navn</th>
+                    <th>Beskrivelse</th>
+                    <th>Severity</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var d in Model.CaseScenario.Patient.Diagnoses)
+                {
+                    <tr>
+                        <td>@d.Name</td>
+                        <td>@d.Description</td>
+                        <td>@d.Severity</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>Ingen diagnoser.</p>
+    }
+
+    <!-- ❤️ VITALS -->
+    <h3>Vital Signs</h3>
+
+    @if (Model.CaseScenario.VitalSignsHistory != null && Model.CaseScenario.VitalSignsHistory.Any())
+    {
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Tid</th>
+                    <th>HR</th>
+                    <th>Temp</th>
+                    <th>BP</th>
+                    <th>SpO2</th>
+                    <th>Resp</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var v in Model.CaseScenario.VitalSignsHistory)
+                {
+                    <tr>
+                        <td>@v.TimeStamp</td>
+                        <td>@v.HeartRate</td>
+                        <td>@v.Temperature</td>
+                        <td>@v.SystolicPressure / @v.DiastolicPressure</td>
+                        <td>@v.OxygenSaturation</td>
+                        <td>@v.RespiratoryRate</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>Ingen vitale data.</p>
+    }
+
+    <a asp-page="/CaseScenarios/Index" class="btn btn-secondary mt-3">← Tilbake</a>
+}

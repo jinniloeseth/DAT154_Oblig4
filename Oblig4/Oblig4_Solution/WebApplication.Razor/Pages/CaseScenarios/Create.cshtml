@@ -1,0 +1,52 @@
+﻿@page
+@model WebApp.Razor.Pages.CaseScenarios.CreateModel
+
+<h1>Create Case</h1>
+
+<form method="post">
+
+    <div>
+        <label>Case Title</label>
+        <br />
+        <input asp-for="CaseScenario.Title" />
+    </div>
+
+    <br />
+
+    <div>
+        <label>Patient Name</label>
+        <br />
+        <input asp-for="CaseScenario.Patient.FullName" />
+    </div>
+
+    <br />
+
+    <div>
+        <label>Age</label>
+        <br />
+        <input asp-for="CaseScenario.Patient.Age" />
+    </div>
+
+    <br />
+
+    <div>
+        <label>Diagnosis</label>
+        <br />
+        <input asp-for="CaseScenario.Patient.AdmittingDiagnosis" />
+    </div>
+
+    <br />
+
+    <div>
+        <label>Room</label>
+        <br />
+        <input asp-for="CaseScenario.Patient.Room" />
+    </div>
+
+    <br />
+
+    <button type="submit">
+        Create
+    </button>
+
+</form>

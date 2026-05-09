@@ -1,0 +1,367 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30C95E0D-A039-2B54-7539-E8F4FF187070}|Backend.API\\Backend.API.csproj|c:\\users\\lalal\\onedrive - h\u00F8gskulen p\u00E5 vestlandet\\6. semester\\dat154\\dat154\\oblig4\\oblig4_solution\\backend.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30C95E0D-A039-2B54-7539-E8F4FF187070}|Backend.API\\Backend.API.csproj|solutionrelative:backend.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C95E0D-A039-2B54-7539-E8F4FF187070}|Backend.API\\Backend.API.csproj|c:\\users\\lalal\\onedrive - h\u00F8gskulen p\u00E5 vestlandet\\6. semester\\dat154\\dat154\\oblig4\\oblig4_solution\\backend.api\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C95E0D-A039-2B54-7539-E8F4FF187070}|Backend.API\\Backend.API.csproj|solutionrelative:backend.api\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0445A328-367A-417D-94DE-6B49DE6316E4}|TeacherApp.WinForms\\TeacherApp.WinForms.csproj|c:\\users\\lalal\\onedrive - h\u00F8gskulen p\u00E5 vestlandet\\6. semester\\dat154\\dat154\\oblig4\\oblig4_solution\\teacherapp.winforms\\teachercasewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0445A328-367A-417D-94DE-6B49DE6316E4}|TeacherApp.WinForms\\TeacherApp.WinForms.csproj|solutionrelative:teacherapp.winforms\\teachercasewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA55BC56-17B9-1EA5-62CA-89FF450C7088}|DesktopApp.WPF\\DesktopApp.WPF.csproj|c:\\users\\lalal\\onedrive - h\u00F8gskulen p\u00E5 vestlandet\\6. semester\\dat154\\dat154\\oblig4\\oblig4_solution\\desktopapp.wpf\\casewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA55BC56-17B9-1EA5-62CA-89FF450C7088}|DesktopApp.WPF\\DesktopApp.WPF.csproj|solutionrelative:desktopapp.wpf\\casewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA55BC56-17B9-1EA5-62CA-89FF450C7088}|DesktopApp.WPF\\DesktopApp.WPF.csproj|c:\\users\\lalal\\onedrive - h\u00F8gskulen p\u00E5 vestlandet\\6. semester\\dat154\\dat154\\oblig4\\oblig4_solution\\desktopapp.wpf\\casewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA55BC56-17B9-1EA5-62CA-89FF450C7088}|DesktopApp.WPF\\DesktopApp.WPF.csproj|solutionrelative:desktopapp.wpf\\casewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6ACEF5-C7F3-472C-B7BA-34FC1F38B941}|WebApplication.Razor\\WebApp.Razor.csproj|c:\\users\\lalal\\onedrive - h\u00F8gskulen p\u00E5 vestlandet\\6. semester\\dat154\\dat154\\oblig4\\oblig4_solution\\webapplication.razor\\pages\\casescenarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B6ACEF5-C7F3-472C-B7BA-34FC1F38B941}|WebApplication.Razor\\WebApp.Razor.csproj|solutionrelative:webapplication.razor\\pages\\casescenarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6ACEF5-C7F3-472C-B7BA-34FC1F38B941}|WebApplication.Razor\\WebApp.Razor.csproj|c:\\users\\lalal\\onedrive - h\u00F8gskulen p\u00E5 vestlandet\\6. semester\\dat154\\dat154\\oblig4\\oblig4_solution\\webapplication.razor\\pages\\casescenarios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B6ACEF5-C7F3-472C-B7BA-34FC1F38B941}|WebApplication.Razor\\WebApp.Razor.csproj|solutionrelative:webapplication.razor\\pages\\casescenarios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6ACEF5-C7F3-472C-B7BA-34FC1F38B941}|WebApplication.Razor\\WebApp.Razor.csproj|c:\\users\\lalal\\onedrive - h\u00F8gskulen p\u00E5 vestlandet\\6. semester\\dat154\\dat154\\oblig4\\oblig4_solution\\webapplication.razor\\pages\\casescenarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B6ACEF5-C7F3-472C-B7BA-34FC1F38B941}|WebApplication.Razor\\WebApp.Razor.csproj|solutionrelative:webapplication.razor\\pages\\casescenarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6ACEF5-C7F3-472C-B7BA-34FC1F38B941}|WebApplication.Razor\\WebApp.Razor.csproj|c:\\users\\lalal\\onedrive - h\u00F8gskulen p\u00E5 vestlandet\\6. semester\\dat154\\dat154\\oblig4\\oblig4_solution\\webapplication.razor\\pages\\casescenarios\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6ACEF5-C7F3-472C-B7BA-34FC1F38B941}|WebApplication.Razor\\WebApp.Razor.csproj|solutionrelative:webapplication.razor\\pages\\casescenarios\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6ACEF5-C7F3-472C-B7BA-34FC1F38B941}|WebApplication.Razor\\WebApp.Razor.csproj|c:\\users\\lalal\\onedrive - h\u00F8gskulen p\u00E5 vestlandet\\6. semester\\dat154\\dat154\\oblig4\\oblig4_solution\\webapplication.razor\\pages\\casescenarios\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6ACEF5-C7F3-472C-B7BA-34FC1F38B941}|WebApplication.Razor\\WebApp.Razor.csproj|solutionrelative:webapplication.razor\\pages\\casescenarios\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6ACEF5-C7F3-472C-B7BA-34FC1F38B941}|WebApplication.Razor\\WebApp.Razor.csproj|c:\\users\\lalal\\onedrive - h\u00F8gskulen p\u00E5 vestlandet\\6. semester\\dat154\\dat154\\oblig4\\oblig4_solution\\webapplication.razor\\pages\\casescenarios\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6ACEF5-C7F3-472C-B7BA-34FC1F38B941}|WebApplication.Razor\\WebApp.Razor.csproj|solutionrelative:webapplication.razor\\pages\\casescenarios\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6ACEF5-C7F3-472C-B7BA-34FC1F38B941}|WebApplication.Razor\\WebApp.Razor.csproj|c:\\users\\lalal\\onedrive - h\u00F8gskulen p\u00E5 vestlandet\\6. semester\\dat154\\dat154\\oblig4\\oblig4_solution\\webapplication.razor\\pages\\casescenarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B6ACEF5-C7F3-472C-B7BA-34FC1F38B941}|WebApplication.Razor\\WebApp.Razor.csproj|solutionrelative:webapplication.razor\\pages\\casescenarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6ACEF5-C7F3-472C-B7BA-34FC1F38B941}|WebApplication.Razor\\WebApp.Razor.csproj|c:\\users\\lalal\\onedrive - h\u00F8gskulen p\u00E5 vestlandet\\6. semester\\dat154\\dat154\\oblig4\\oblig4_solution\\webapplication.razor\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6ACEF5-C7F3-472C-B7BA-34FC1F38B941}|WebApplication.Razor\\WebApp.Razor.csproj|solutionrelative:webapplication.razor\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0445A328-367A-417D-94DE-6B49DE6316E4}|TeacherApp.WinForms\\TeacherApp.WinForms.csproj|c:\\users\\lalal\\onedrive - h\u00F8gskulen p\u00E5 vestlandet\\6. semester\\dat154\\dat154\\oblig4\\oblig4_solution\\teacherapp.winforms\\teachercasewindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0445A328-367A-417D-94DE-6B49DE6316E4}|TeacherApp.WinForms\\TeacherApp.WinForms.csproj|solutionrelative:teacherapp.winforms\\teachercasewindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA55BC56-17B9-1EA5-62CA-89FF450C7088}|DesktopApp.WPF\\DesktopApp.WPF.csproj|c:\\users\\lalal\\onedrive - h\u00F8gskulen p\u00E5 vestlandet\\6. semester\\dat154\\dat154\\oblig4\\oblig4_solution\\desktopapp.wpf\\desktopapp.wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA55BC56-17B9-1EA5-62CA-89FF450C7088}|DesktopApp.WPF\\DesktopApp.WPF.csproj|solutionrelative:desktopapp.wpf\\desktopapp.wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C95E0D-A039-2B54-7539-E8F4FF187070}|Backend.API\\Backend.API.csproj|c:\\users\\lalal\\onedrive - h\u00F8gskulen p\u00E5 vestlandet\\6. semester\\dat154\\dat154\\oblig4\\oblig4_solution\\backend.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C95E0D-A039-2B54-7539-E8F4FF187070}|Backend.API\\Backend.API.csproj|solutionrelative:backend.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C95E0D-A039-2B54-7539-E8F4FF187070}|Backend.API\\Backend.API.csproj|c:\\users\\lalal\\onedrive - h\u00F8gskulen p\u00E5 vestlandet\\6. semester\\dat154\\dat154\\oblig4\\oblig4_solution\\backend.api\\controllers\\actionlogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C95E0D-A039-2B54-7539-E8F4FF187070}|Backend.API\\Backend.API.csproj|solutionrelative:backend.api\\controllers\\actionlogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C95E0D-A039-2B54-7539-E8F4FF187070}|Backend.API\\Backend.API.csproj|c:\\users\\lalal\\onedrive - h\u00F8gskulen p\u00E5 vestlandet\\6. semester\\dat154\\dat154\\oblig4\\oblig4_solution\\backend.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C95E0D-A039-2B54-7539-E8F4FF187070}|Backend.API\\Backend.API.csproj|solutionrelative:backend.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB83C70-A316-4E30-DA94-F03E02E54AFB}|SharedLibrary\\SharedLibrary.csproj|c:\\users\\lalal\\onedrive - h\u00F8gskulen p\u00E5 vestlandet\\6. semester\\dat154\\dat154\\oblig4\\oblig4_solution\\sharedlibrary\\objects\\vitalsigns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB83C70-A316-4E30-DA94-F03E02E54AFB}|SharedLibrary\\SharedLibrary.csproj|solutionrelative:sharedlibrary\\objects\\vitalsigns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C95E0D-A039-2B54-7539-E8F4FF187070}|Backend.API\\Backend.API.csproj|c:\\users\\lalal\\onedrive - h\u00F8gskulen p\u00E5 vestlandet\\6. semester\\dat154\\dat154\\oblig4\\oblig4_solution\\backend.api\\controllers\\vitalsignscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C95E0D-A039-2B54-7539-E8F4FF187070}|Backend.API\\Backend.API.csproj|solutionrelative:backend.api\\controllers\\vitalsignscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0445A328-367A-417D-94DE-6B49DE6316E4}|TeacherApp.WinForms\\TeacherApp.WinForms.csproj|c:\\users\\lalal\\onedrive - h\u00F8gskulen p\u00E5 vestlandet\\6. semester\\dat154\\dat154\\oblig4\\oblig4_solution\\teacherapp.winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0445A328-367A-417D-94DE-6B49DE6316E4}|TeacherApp.WinForms\\TeacherApp.WinForms.csproj|solutionrelative:teacherapp.winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 196,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TeacherCaseWindow.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\TeacherApp.WinForms\\TeacherCaseWindow.Designer.cs",
+              "RelativeDocumentMoniker": "TeacherApp.WinForms\\TeacherCaseWindow.Designer.cs",
+              "ToolTip": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\TeacherApp.WinForms\\TeacherCaseWindow.Designer.cs",
+              "RelativeToolTip": "TeacherApp.WinForms\\TeacherCaseWindow.Designer.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAUwM8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T10:25:06.441Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\Backend.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\Backend.API\\appsettings.json",
+              "RelativeToolTip": "Backend.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-09T16:32:35.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\WebApplication.Razor\\Pages\\CaseScenarios\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication.Razor\\Pages\\CaseScenarios\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\WebApplication.Razor\\Pages\\CaseScenarios\\Edit.cshtml.cs",
+              "RelativeToolTip": "WebApplication.Razor\\Pages\\CaseScenarios\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T12:37:07.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\WebApplication.Razor\\Pages\\CaseScenarios\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication.Razor\\Pages\\CaseScenarios\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\WebApplication.Razor\\Pages\\CaseScenarios\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication.Razor\\Pages\\CaseScenarios\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-09T12:36:57.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\WebApplication.Razor\\Pages\\CaseScenarios\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication.Razor\\Pages\\CaseScenarios\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\WebApplication.Razor\\Pages\\CaseScenarios\\Create.cshtml.cs",
+              "RelativeToolTip": "WebApplication.Razor\\Pages\\CaseScenarios\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T12:36:42.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\WebApplication.Razor\\Pages\\CaseScenarios\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication.Razor\\Pages\\CaseScenarios\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\WebApplication.Razor\\Pages\\CaseScenarios\\Create.cshtml",
+              "RelativeToolTip": "WebApplication.Razor\\Pages\\CaseScenarios\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-09T12:36:12.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\WebApplication.Razor\\Pages\\CaseScenarios\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication.Razor\\Pages\\CaseScenarios\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\WebApplication.Razor\\Pages\\CaseScenarios\\Details.cshtml.cs",
+              "RelativeToolTip": "WebApplication.Razor\\Pages\\CaseScenarios\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T12:36:02.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\WebApplication.Razor\\Pages\\CaseScenarios\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplication.Razor\\Pages\\CaseScenarios\\Details.cshtml",
+              "ToolTip": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\WebApplication.Razor\\Pages\\CaseScenarios\\Details.cshtml",
+              "RelativeToolTip": "WebApplication.Razor\\Pages\\CaseScenarios\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-09T12:35:39.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\WebApplication.Razor\\Pages\\CaseScenarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication.Razor\\Pages\\CaseScenarios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\WebApplication.Razor\\Pages\\CaseScenarios\\Index.cshtml",
+              "RelativeToolTip": "WebApplication.Razor\\Pages\\CaseScenarios\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwD0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-09T12:32:42.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\WebApplication.Razor\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication.Razor\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\WebApplication.Razor\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "WebApplication.Razor\\Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T12:32:14.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CaseWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\DesktopApp.WPF\\CaseWindow.xaml",
+              "RelativeDocumentMoniker": "DesktopApp.WPF\\CaseWindow.xaml",
+              "ToolTip": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\DesktopApp.WPF\\CaseWindow.xaml",
+              "RelativeToolTip": "DesktopApp.WPF\\CaseWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-09T11:38:21.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VitalSigns.cs",
+              "DocumentMoniker": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\SharedLibrary\\Objects\\VitalSigns.cs",
+              "RelativeDocumentMoniker": "SharedLibrary\\Objects\\VitalSigns.cs",
+              "ToolTip": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\SharedLibrary\\Objects\\VitalSigns.cs",
+              "RelativeToolTip": "SharedLibrary\\Objects\\VitalSigns.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T11:32:42.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\Backend.API\\DbContext.cs",
+              "RelativeDocumentMoniker": "Backend.API\\DbContext.cs",
+              "ToolTip": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\Backend.API\\DbContext.cs",
+              "RelativeToolTip": "Backend.API\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T08:50:48.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\Backend.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Backend.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\Backend.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Backend.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T08:50:30.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VitalSignsController.cs",
+              "DocumentMoniker": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\Backend.API\\Controllers\\VitalSignsController.cs",
+              "RelativeDocumentMoniker": "Backend.API\\Controllers\\VitalSignsController.cs",
+              "ToolTip": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\Backend.API\\Controllers\\VitalSignsController.cs",
+              "RelativeToolTip": "Backend.API\\Controllers\\VitalSignsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T08:09:41.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ActionLogsController.cs",
+              "DocumentMoniker": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\Backend.API\\Controllers\\ActionLogsController.cs",
+              "RelativeDocumentMoniker": "Backend.API\\Controllers\\ActionLogsController.cs",
+              "ToolTip": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\Backend.API\\Controllers\\ActionLogsController.cs",
+              "RelativeToolTip": "Backend.API\\Controllers\\ActionLogsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T20:53:11.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\Backend.API\\Program.cs",
+              "RelativeDocumentMoniker": "Backend.API\\Program.cs",
+              "ToolTip": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\Backend.API\\Program.cs",
+              "RelativeToolTip": "Backend.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T20:16:20.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CaseWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\DesktopApp.WPF\\CaseWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DesktopApp.WPF\\CaseWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\DesktopApp.WPF\\CaseWindow.xaml.cs",
+              "RelativeToolTip": "DesktopApp.WPF\\CaseWindow.xaml.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAwD4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T11:34:04.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DesktopApp.WPF.csproj",
+              "DocumentMoniker": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\DesktopApp.WPF\\DesktopApp.WPF.csproj",
+              "RelativeDocumentMoniker": "DesktopApp.WPF\\DesktopApp.WPF.csproj",
+              "ToolTip": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\DesktopApp.WPF\\DesktopApp.WPF.csproj",
+              "RelativeToolTip": "DesktopApp.WPF\\DesktopApp.WPF.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-08T11:32:52.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeacherCaseWindow.cs",
+              "DocumentMoniker": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\TeacherApp.WinForms\\TeacherCaseWindow.cs",
+              "RelativeDocumentMoniker": "TeacherApp.WinForms\\TeacherCaseWindow.cs",
+              "ToolTip": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\TeacherApp.WinForms\\TeacherCaseWindow.cs",
+              "RelativeToolTip": "TeacherApp.WinForms\\TeacherCaseWindow.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAkwLYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T10:02:23.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\TeacherApp.WinForms\\Program.cs",
+              "RelativeDocumentMoniker": "TeacherApp.WinForms\\Program.cs",
+              "ToolTip": "C:\\Users\\lalal\\OneDrive - H\u00F8gskulen p\u00E5 Vestlandet\\6. Semester\\DAT154\\DAT154\\Oblig4\\Oblig4_Solution\\TeacherApp.WinForms\\Program.cs",
+              "RelativeToolTip": "TeacherApp.WinForms\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T09:26:54.296Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

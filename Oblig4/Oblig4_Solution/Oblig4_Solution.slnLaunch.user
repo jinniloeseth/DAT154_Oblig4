@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Backend.API\\Backend.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TeacherApp.WinForms\\TeacherApp.WinForms.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "DesktopApp.WPF\\DesktopApp.WPF.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "WebApplication.Razor\\WebApp.Razor.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

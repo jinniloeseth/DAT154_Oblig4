@@ -1,0 +1,9 @@
+C:\Users\lalal\Documents\Skole\DAT154\Oblig4\Oblig4_Solution\WebApplication.Razor\obj\Debug\net10.0\WebApplication.Razor.csproj.AssemblyReference.cache
+C:\Users\lalal\Documents\Skole\DAT154\Oblig4\Oblig4_Solution\WebApplication.Razor\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\lalal\Documents\Skole\DAT154\Oblig4\Oblig4_Solution\WebApplication.Razor\obj\Debug\net10.0\WebApplication.Razor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lalal\Documents\Skole\DAT154\Oblig4\Oblig4_Solution\WebApplication.Razor\obj\Debug\net10.0\WebApplication.Razor.AssemblyInfoInputs.cache
+C:\Users\lalal\Documents\Skole\DAT154\Oblig4\Oblig4_Solution\WebApplication.Razor\obj\Debug\net10.0\WebApplication.Razor.AssemblyInfo.cs
+C:\Users\lalal\Documents\Skole\DAT154\Oblig4\Oblig4_Solution\WebApplication.Razor\obj\Debug\net10.0\WebApplication.Razor.csproj.CoreCompileInputs.cache
+C:\Users\lalal\Documents\Skole\DAT154\Oblig4\Oblig4_Solution\WebApplication.Razor\obj\Debug\net10.0\WebApplication.Razor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lalal\Documents\Skole\DAT154\Oblig4\Oblig4_Solution\WebApplication.Razor\obj\Debug\net10.0\WebApplication.Razor.RazorAssemblyInfo.cache
+C:\Users\lalal\Documents\Skole\DAT154\Oblig4\Oblig4_Solution\WebApplication.Razor\obj\Debug\net10.0\WebApplication.Razor.RazorAssemblyInfo.cs

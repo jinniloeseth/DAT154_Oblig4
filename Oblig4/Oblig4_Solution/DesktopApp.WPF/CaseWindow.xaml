@@ -1,0 +1,170 @@
+﻿<Window x:Class="DesktopApp.WPF.CaseWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:local="clr-namespace:DesktopApp.WPF"
+        mc:Ignorable="d"
+        d:DesignHeight="600"
+        d:DesignWidth="800"
+        Title="CaseWindow">
+
+    <Grid>
+
+        <StackPanel Margin="20">
+
+            <TextBlock x:Name="CaseTitle"
+                       FontSize="24"
+                       Margin="0,0,0,20"
+                       FontWeight="Bold"/>
+
+            <Grid Margin="0,20,0,0">
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*" />
+                    <ColumnDefinition Width="1*" />
+                </Grid.ColumnDefinitions>
+
+                <!-- LEFT SIDE -->
+                <StackPanel Grid.Column="0"
+                            Margin="0,0,10,0">
+
+                    <!-- PATIENT INFO -->
+                    <TextBlock Text="Patient info"
+                               Margin="0,20,0,5"
+                               FontWeight="Bold"
+                               FontSize="16"/>
+
+                    <TextBlock x:Name="PatientName"/>
+                    <TextBlock x:Name="AgeText"/>
+                    <TextBlock x:Name="RoomText"/>
+                    <TextBlock x:Name="DiagnosisText"/>
+
+                    <!-- ACTIONS -->
+                    <TextBlock Text="Actions"
+                               FontWeight="Bold"
+                               FontSize="16"
+                               Margin="0,20,0,10"/>
+
+                    <WrapPanel>
+
+                        <Button Content="Give Oxygen 2L"
+                                Width="140"
+                                Height="40"
+                                Margin="5"
+                                Click="GiveOxygen2_Click"/>
+
+                        <Button Content="Give Oxygen 5L"
+                                Width="140"
+                                Height="40"
+                                Margin="5"
+                                Click="GiveOxygen5_Click"/>
+
+                        <Button Content="Morphine 2mg"
+                                Width="140"
+                                Height="40"
+                                Margin="5"
+                                Click="Morphine2_Click"/>
+
+                        <Button Content="Morphine 5mg"
+                                Width="140"
+                                Height="40"
+                                Margin="5"
+                                Click="Morphine5_Click"/>
+
+                        <Button Content="Give IV Fluids 500mL"
+                                Width="140"
+                                Height="40"
+                                Margin="5"
+                                Click="GiveIVFluids_Click"/>
+
+                        <Button Content="Administer Paracetamol 1g"
+                                Width="180"
+                                Height="40"
+                                Margin="5"
+                                Click="Paracetamol_Click"/>
+
+                    </WrapPanel>
+
+                    <!-- ACTION LOG -->
+                    <TextBlock Text="Live Action Log"
+                               FontWeight="Bold"
+                               FontSize="18"
+                               Margin="0,20,0,10"/>
+
+                    <ListBox x:Name="ActionLogList"
+                             Height="220"/>
+
+                </StackPanel>
+
+                <!-- RIGHT SIDE -->
+                <StackPanel Grid.Column="1"
+                            Margin="10,0,0,0">
+
+                    <!-- LIVE VITALS -->
+                    <Border BorderBrush="Gray"
+                            BorderThickness="1"
+                            Padding="15"
+                            CornerRadius="5">
+
+                        <StackPanel>
+
+                            <TextBlock Text="Live vital signs"
+                                       FontWeight="Bold"
+                                       FontSize="18"
+                                       Margin="0,0,0,20"/>
+
+                            <TextBlock x:Name="HeartRateText"
+                                       FontSize="22"
+                                       Margin="0,10"/>
+
+                            <TextBlock x:Name="BpText"
+                                       FontSize="22"
+                                       Margin="0,10"/>
+
+                            <TextBlock x:Name="OxygenText"
+                                       FontSize="22"
+                                       Margin="0,10"/>
+
+                            <TextBlock x:Name="TempText"
+                                       FontSize="22"
+                                       Margin="0,10"/>
+
+                        </StackPanel>
+
+                    </Border>
+
+                    <!-- VITAL HISTORY -->
+                    <Border BorderBrush="Gray"
+                            BorderThickness="1"
+                            Padding="15"
+                            CornerRadius="5"
+                            Margin="0,20,0,0">
+
+                        <StackPanel>
+
+                            <TextBlock Text="Vital Signs History"
+                                       FontWeight="Bold"
+                                       FontSize="18"
+                                       Margin="0,0,0,10"/>
+
+                            <ListBox x:Name="VitalsHistoryList"
+                                     Height="220"/>
+
+                        </StackPanel>
+
+                    </Border>
+
+                </StackPanel>
+
+            </Grid>
+
+            <Button Content="← Back"
+                    Click="Back_Click"
+                    Margin="0,20,0,0"/>
+
+        </StackPanel>
+
+    </Grid>
+
+</Window>

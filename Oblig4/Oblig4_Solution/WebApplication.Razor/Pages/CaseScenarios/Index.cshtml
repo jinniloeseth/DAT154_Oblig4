@@ -1,0 +1,62 @@
+﻿@page
+@model CaseScenariosIndexModel
+
+<div style="display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-bottom:20px;">
+
+    <h1>Case Scenarios</h1>
+
+    <a asp-page="/CaseScenarios/Create"
+           style="padding:10px 16px;
+        background-color:#198754;
+        color:white;
+        text-decoration:none;
+        border-radius:5px;">
+        + Create Case
+    </a>
+
+</div>
+
+<table border="1"
+       cellpadding="10"
+       style="width:100%;
+    border-collapse:collapse;">
+
+    <thead style="background-color:#f2f2f2;">
+        <tr>
+            <th>Patient ID</th>
+            <th>Full Name</th>
+            <th>Case Title</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var c in Model.CaseScenarios)
+        {
+            <tr>
+                <td>@c.PatientId</td>
+
+                <td>@c.Patient?.FullName</td>
+
+                <td>@c.Title</td>
+
+                <td>
+                    <a asp-page="/CaseScenarios/Details"
+                           asp-route-id="@c.Id"
+                           style="margin-right:10px;">
+                        View
+                    </a>
+
+                    <a asp-page="/CaseScenarios/Edit"
+                           asp-route-id="@c.Id">
+                        Edit
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>
